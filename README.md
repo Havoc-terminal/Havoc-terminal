@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+Hi there 👋
+# About Me:
 B.Tech Computer Science Engineering (AI & Machine Learning) student with interests in Software Development, Artificial Intelligence, Cybersecurity, and Open Source. Currently learning and building real-world projects.
 
 
